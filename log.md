@@ -6,8 +6,10 @@
 
 **Thoughts:** Array indexing gives me far more trouble than it should.
 
-**Link to work:** [Sieve of Eratosthenes](https://github.com/Holland-k/100-days-of-code/tree/master/python/sieve)
-[Collatz Conjecture](https://github.com/Holland-k/100-days-of-code/tree/master/python/collatz)
+**Link to work:** 
+  [Sieve of Eratosthenes](https://github.com/Holland-k/100-days-of-code/tree/master/python/sieve)
+  
+  [Collatz Conjecture](https://github.com/Holland-k/100-days-of-code/tree/master/python/collatz)
 
 ### Day 1: June 19, 2018
 
